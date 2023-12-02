@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 2023/12/02 15:23:31
+// Create Date: 2023/12/02 15:23:42
 // Design Name: 
-// Module Name: MiniPiano
+// Module Name: Controller
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module MiniPiano(
+module Controller(
 
     );
 endmodule

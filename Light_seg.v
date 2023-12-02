@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 2023/12/02 15:23:31
+// Create Date: 2023/12/02 15:25:03
 // Design Name: 
-// Module Name: MiniPiano
+// Module Name: Light_seg
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module MiniPiano(
+module Light_seg(
 
     );
 endmodule
